@@ -2,7 +2,7 @@
 
 ```bash
 cd bff
-npm start
+npm run dev
 ```
 
 ```bash
