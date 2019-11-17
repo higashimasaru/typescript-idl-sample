@@ -15,7 +15,6 @@ mkdir bff
 cd bff
 cp ../ui/.gitignore .
 
-exit
 #
 # 準備
 #
