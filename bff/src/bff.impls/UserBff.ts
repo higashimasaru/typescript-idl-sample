@@ -42,7 +42,7 @@ const error404: Type['error404'] = arg => {
   return {};
 };
 
-const error500: Type['error404'] = arg => {
+const error500: Type['error500'] = arg => {
   const { id } = arg;
   console.log('error500', id);
   throw new Error(`error500 ${id}`);
